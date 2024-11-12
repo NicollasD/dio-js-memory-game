@@ -87,7 +87,7 @@ h2 {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url(./src/images/card-bg.png);
+    background: url(/src/images/card-bg.png);
     background-size: cover;
     background-position: center;
     border-radius: 0.5rem;
